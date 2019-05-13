@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">College</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="course">Course</string>
+    <string name="student">Student</string>
+</resources>
